@@ -1,10 +1,14 @@
-hi # Install Libraries -------------------------------------------------------
+# Install Libraries -------------------------------------------------------
 library(readr) 
 library(here)  
 library(ggplot2) 
 library(dplyr) 
 library(ggrepel)
-
+install.packages("rmarkdown")
+library(rmarkdown)
+install.packages('tinytex')
+tinytex::install_tinytex()  # install TinyTeX
+installr::install.pandoc()
 
 # Importing and cleaning Data ----------------------------------------------------------
 
