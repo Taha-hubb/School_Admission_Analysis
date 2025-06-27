@@ -1,6 +1,4 @@
-Here's your full `README.md` file content, tailored to your profile **(IT Developer | Data Analyst | Math Teacher | Marketing)** and the ENA Agadir admission selection project.
 
----
 
 ```markdown
 # 📊 ENA Agadir Admission Selection Analysis
